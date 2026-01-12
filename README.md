@@ -8,5 +8,13 @@ repository setup, committing changes, branching, merging, and deployment.
 
 
 
+\## Feature Update
+
+
+
+This update adds additional details to demonstrate working with branches
+
+and committing changes on a feature branch.
+
 
 
